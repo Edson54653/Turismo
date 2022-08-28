@@ -187,7 +187,10 @@ height: 7rem;
 width: 7rem;
 background: var(--white-color);
 color: var(--black-color)7;
+
 }
+
+
 
 .home-container .swiper-button-next:hover, .swiper-button-prev:hover
 {
