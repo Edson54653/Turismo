@@ -34,7 +34,7 @@
 </section>
     <!-----header-Section ends------>
 
-<div class="heading" style="background:url(images/header-bg-2.png) no-repeat;">
+<div class="heading" style="background:url(images/beira-city.jpg) no-repeat;background-position: center;">
     <h1>Packages</h1>
 </div>
 
@@ -48,24 +48,24 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/img-1.jpg" alt="">
+                <img src="images/cidade1.jpg" alt="">
             </div>
 
             <div class="content">
-                <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor sit amet conpa nihil maiores reprehenderit!</p>
+                <h3>Aventure em Maputo</h3>
+                <p>Maputo é a cidade mais grande e que tem mais população em Moçambique!</p>
                 <a href="book.php" class="btn">Book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="images/img-2.jpg" alt="">
+                <img src="images/beira-city.jpg" alt="">
             </div>
 
             <div class="content">
-                <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor sit amet conpa nihil maiores reprehenderit!</p>
+                <h3>Aventure em Beira</h3>
+                <p>Beira é a segunda grande cidade de moçambique!</p>
                 <a href="book.php" class="btn">Book now</a>
             </div>
         </div>

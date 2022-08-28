@@ -1,5 +1,7 @@
 <?php
 
+
+
 $connection = mysqli_connect('localhost','root', '','book_db');
 
 if (isset($_POST['enviar'])) {

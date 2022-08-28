@@ -1,3 +1,5 @@
+<?php  $indereco='';  ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +19,6 @@
 </head>
 <body >
 
-    
     <!-----header-Section------>
 
 <section class="header">
@@ -34,7 +35,7 @@
 </section>
     <!-----header-Section ends------>
 
-<div class="heading" style="background:url(images/header-bg-3.png) no-repeat;">
+<div class="heading" style="background:url(images/mocambique.png) no-repeat;">
     <h1>Book now</h1>
 </div>
 
@@ -65,7 +66,7 @@
 
             <div class="inputBox">
                 <span>indereço :</span>
-                <input type="text" name="indereco" placeholder="Digite o seu indereco">
+                <input type="text" name="indereco" placeholder="Digite o seu indereco" value="<?php echo $indereco; ?>">
             </div>
 
             <div class="inputBox">
@@ -100,24 +101,7 @@
 </section>
 
 
-
-
-
-
-
 <!-- section booking fim -->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <!-- Footer sectio starts -->
