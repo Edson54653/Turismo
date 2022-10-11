@@ -88,12 +88,12 @@
 
         <div class="box-services">
             <img src="images/icon-1.png" alt="">
-            <h3>Adventure</h3>
+            <h3>Aventura</h3>
         </div>
 
         <div class="box-services">
             <img src="images/icon-2.png" alt="">
-            <h3>Tour Guide</h3>
+            <h3>Guia Turistica</h3>
         </div>
 
         <!-- <div class="box-services">
@@ -103,7 +103,7 @@
 
         <div class="box-services">
             <img src="images/icon-4.png" alt="">
-            <h3>Comp fire</h3>
+            <h3>Acampar</h3>
         </div>
 
             <!-- <div class="box-services">
@@ -113,7 +113,7 @@
 
         <div class="box-services">
             <img src="images/icon-6.png" alt="">
-            <h3>Comping</h3>
+            <h3>Hoteil</h3>
         </div>
     </div>
 
@@ -202,14 +202,6 @@
 
 
  <!-----Home afer Section ends------>
- 
-
-
-
-
-
-
-
 
     <!-- Footer sectio starts -->
 
